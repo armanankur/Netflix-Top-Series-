@@ -11,7 +11,7 @@ function App() {
     imgsrc={elem.imgsrc} 
     stitle={elem.stitle}
     sname ={elem.sname}
-    link= {elem.link}
+    link= {elem.link} 
     />
     </>
    )
