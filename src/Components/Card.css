@@ -43,8 +43,8 @@
   }
   .card_info{
     background-color: #fff;
-    border-top-left-radius: 12px;
-    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
     padding: 16px 24px 24px 24px;
   }
   .card_category{
@@ -70,6 +70,9 @@
     outline: none;
     border: 1px solid black;
     cursor: pointer;
+  }
+  button:hover{
+    color: #E7201D;
   }
   @media (max-width:768px) {
     .card{
